@@ -75,7 +75,7 @@ public class Hanoi {
         while (discos != 0) {
             Hanoi(discos, 1, 2, 3);
 
-            System.out.println("\nTotal de movimientos: " + cont);
+            System.out.println("\n>>>>>>>> Número total de movimientos: " + cont);
             cont = 0;
             discos = pideNum();
         }
