@@ -75,12 +75,12 @@ public class Hanoi {
         while (discos != 0) {
             Hanoi(discos, 1, 2, 3);
 
-            System.out.println("\n>>>>>>>> Número total de movimientos: " + cont);
+            System.out.println("\n>>> Número total de movimientos: " + cont);
             cont = 0;
             discos = pideNum();
         }
 
-        System.out.println("\n~~ Fin del programa, hasta luego Lucas. ~~\n");
+        System.out.println("\n~~ Fin del programa, hasta luego Lucas. PROBANDO EL PULL~~\n");
     }
 
 }
