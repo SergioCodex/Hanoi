@@ -80,7 +80,7 @@ public class Hanoi {
             discos = pideNum();
         }
 
-        System.out.println("\n~~ Fin del programa, hasta luego Lucas. PROBANDO EL PULL~~\n");
+        System.out.println("\n~~ Fin del programa, hasta luego Lucas. ~~\n");
     }
 
 }
